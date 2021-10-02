@@ -1,1 +1,1 @@
-This is just a private file library, and it's only publicly available to be able to read it through the URL.
+This is only a private file library, and the reason it is public is only to be able to read it through the URL.
